@@ -1,6 +1,6 @@
 name             'droeber-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Comcast'
+maintainer_email 'donald_roeber@comcast.com'
 license          'All rights reserved'
 description      'Installs/Configures droeber-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
