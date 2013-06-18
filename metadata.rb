@@ -1,5 +1,5 @@
 name             'droeber-myface'
-maintainer       'Comcast'
+maintainer       'CIM'
 maintainer_email 'donald_roeber@comcast.com'
 license          'All rights reserved'
 description      'Installs/Configures droeber-myface'
